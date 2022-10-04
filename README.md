@@ -1,1 +1,3 @@
-# Ssss
+# Mano pirmoji programa
+
+## Introduction
